@@ -1,6 +1,4 @@
-### Красивый README для проекта Telegram Quiz Bot
 
----
 
 <div align="center">
   <h1>🎮 QuizMaster Bot</h1>
