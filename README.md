@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1>🎮 QuizMaster Bot</h1>
+  <h1>🎮 Quizy Bot</h1>
   <p>Умный телеграм-бот для увлекательных викторин с разными темами</p>
   
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
